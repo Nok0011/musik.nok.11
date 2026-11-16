@@ -4,7 +4,7 @@ psutil==7.2.2
 python-dotenv==1.2.3
 pymongo==4.17.0
 kurigram[fast]==2.2.25
-ntgcalls==3.0.3
+ntgcalls==3.0.0
 py-tgcalls==3.0.3
 pytgcrypto==1.2.12
 py-yt-search==0.8.0
